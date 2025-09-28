@@ -1,0 +1,5 @@
+A engenharia de software moderna exige práticas ágeis e foco em entrega contínua.
+O uso de inteligência artificial na análise de requisitos pode acelerar o desenvolvimento de sistemas.
+Modelos de linguagem treinados com grandes volumes de dados são capazes de gerar respostas contextualizadas.
+A busca vetorial permite encontrar trechos relevantes em documentos extensos com alta precisão.
+A integração de embeddings com sistemas de chat cria assistentes personalizados para tarefas específicas.
